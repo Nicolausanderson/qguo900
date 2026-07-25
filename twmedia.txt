@@ -1,0 +1,33 @@
+DOMAIN,4gtvfree-cds.cdn.hinet.net
+DOMAIN,acs-go.svc.litv.tv
+DOMAIN,acs2.svc.litv.tv
+DOMAIN,cdi.ofiii.com
+DOMAIN,ntd-tgc.cdn.hinet.net
+DOMAIN,ntdofifreepc.akamaized.net
+DOMAIN,ntdofifreepcmobile-tgc.cdn.hinet.net
+DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdofreepad-tgc.cdn.hinet.net
+DOMAIN,ntdofreepcpad-tgc.cdn.hinet.net
+DOMAIN,ntdofreevcpad-tgc.cdn.hinet.net
+DOMAIN,ntdofifreevcmobile-tgc.cdn.hinet.net
+DOMAIN,ofissaifreepc.akamaized.net
+DOMAIN,ofissaifreemobile.akamaized.net
+DOMAIN,ofissaifreepad.akamaized.net
+DOMAIN,p-cdnstatic.svc.litv.tv
+DOMAIN,vmsmedia.akamaized.net
+DOMAIN,ntdofifreepad-tgc.cdn.hinet.net
+DOMAIN,ntdofifreevcpad-tgc.cdn.hinet.net
+DOMAIN,litvpc-hichannel.cdn.hinet.net
+DOMAIN,ntdofifreepocmobile-tgc.cdn.hinet.net
+DOMAIN,ofiii.livednow.dpdns.org
+DOMAIN,4gtv.livednow.dpdns.org
+DOMAIN,hami.livednow.dpdns.org
+DOMAIN,litv.tv
+DOMAIN,hinet.net
+DOMAIN,ofiii.com
+DOMAIN,ntdofifreepc-tgc.cdn.hinet.net // Added for: ntdofifreepc-tgc.cdn.hinet.net:443
+DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net // Added for: ntdofifreevcpc-tgc.cdn.hinet.net:443
+DOMAIN,4gtvfreetv-cds.cdn.hinet.net // Added for: 4gtvfreetv-cds.cdn.hinet.net:443
+DOMAIN,4gtvfree-mozai.4gtv.tv // Added for: 4gtvfree-mozai.4gtv.tv:443
+DOMAIN,4gtvfreemobile-cds.cdn.hinet.net // Added for: 4gtvfreemobile-cds.cdn.hinet.net:443
+DOMAIN,4gtvfreemobile-mozai.4gtv.tv // Added for: 4gtvfreemobile-mozai.4gtv.tv:443
